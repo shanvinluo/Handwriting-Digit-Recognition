@@ -12,7 +12,8 @@ After a lot of research and analysis, we realized that creating a convolutional 
 
 
 
-What I learned
+##What I learned:
+
 • Collaborated with two other teammates to complete this research project in time
 
 • Learned how to implement different classification models from sklearn such as KNN, SVM and Random Forest Classifier
