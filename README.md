@@ -23,5 +23,3 @@ __**What I learned:**__
 • Optimized the CNN model to achieve a 99% accuracy on the testing dataset
 
 • Analysed the accuracy of our models by plotting graphs and tables using Seaborn and Matplotlib and by measuring different accuracy scores such as the f1-score
-
-• Implemented a graphical user interface using Gradio that displays the model's predictions
