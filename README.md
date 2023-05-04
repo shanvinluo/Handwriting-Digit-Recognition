@@ -12,7 +12,7 @@ After a lot of research and analysis, we realized that creating a convolutional 
 
 
 
-##What I learned:
+#What I learned:
 
 • Collaborated with two other teammates to complete this research project in time
 
